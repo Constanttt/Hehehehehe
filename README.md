@@ -1,0 +1,2 @@
+# Hehehehehe
+Python IRC class
